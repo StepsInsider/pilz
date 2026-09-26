@@ -1,0 +1,350 @@
+{
+  "daily": {
+    "coverage": "dwd__SF-Produkt_(0-24)",
+    "days": [
+      {
+        "bytes": 194513,
+        "date": "2026-08-31",
+        "file": "rain_day_20260831.bin.gz",
+        "max_mm": 82.6,
+        "sha256": "65f20dee32ac0bc8380b302222b194ff6b60f6019383bf3c6345d4c29e1bd38b",
+        "time": "2026-08-31T00:00:00.000Z",
+        "wet_percent": 91.2
+      },
+      {
+        "bytes": 47744,
+        "date": "2026-09-01",
+        "file": "rain_day_20260901.bin.gz",
+        "max_mm": 24.1,
+        "sha256": "296f3a18efa61646d973925bff3022942f8ef0827b3a974cb0f5f4ece0200867",
+        "time": "2026-09-01T00:00:00.000Z",
+        "wet_percent": 30.2
+      },
+      {
+        "bytes": 26064,
+        "date": "2026-09-02",
+        "file": "rain_day_20260902.bin.gz",
+        "max_mm": 29.6,
+        "sha256": "0677b29e5f2b2048b212a0f9c97f9871ae6aae5b7bc29618bc9c1f9623aecb9e",
+        "time": "2026-09-02T00:00:00.000Z",
+        "wet_percent": 13.1
+      },
+      {
+        "bytes": 63223,
+        "date": "2026-09-03",
+        "file": "rain_day_20260903.bin.gz",
+        "max_mm": 28.2,
+        "sha256": "606173758f65bd52d78313793d4a1cc88ef7d413b0aef1544e85308e8d004975",
+        "time": "2026-09-03T00:00:00.000Z",
+        "wet_percent": 43.8
+      },
+      {
+        "bytes": 121556,
+        "date": "2026-09-04",
+        "file": "rain_day_20260904.bin.gz",
+        "max_mm": 55.5,
+        "sha256": "97316c2475828dfea74563ed8c13a51391b868fe7279a73a905ca606f7d9668e",
+        "time": "2026-09-04T00:00:00.000Z",
+        "wet_percent": 68.7
+      },
+      {
+        "bytes": 98644,
+        "date": "2026-09-05",
+        "file": "rain_day_20260905.bin.gz",
+        "max_mm": 32.3,
+        "sha256": "d039345adeb81ac104b6cb94db1d77019a9a769c127cf31eb77ffa9a8d32fb1f",
+        "time": "2026-09-05T00:00:00.000Z",
+        "wet_percent": 64.3
+      },
+      {
+        "bytes": 9539,
+        "date": "2026-09-06",
+        "file": "rain_day_20260906.bin.gz",
+        "max_mm": 7.6,
+        "sha256": "246289f8214d701d11a27f2c07fd87bed1e39c5815a54d007c9c6b93c204cdc1",
+        "time": "2026-09-06T00:00:00.000Z",
+        "wet_percent": 3.9
+      },
+      {
+        "bytes": 42928,
+        "date": "2026-09-07",
+        "file": "rain_day_20260907.bin.gz",
+        "max_mm": 24.6,
+        "sha256": "473e3175ab79f49f366a00c5ffe6779db2fcf4174ee852c6c152e8bb1d5d0738",
+        "time": "2026-09-07T00:00:00.000Z",
+        "wet_percent": 29.2
+      },
+      {
+        "bytes": 100623,
+        "date": "2026-09-08",
+        "file": "rain_day_20260908.bin.gz",
+        "max_mm": 38.0,
+        "sha256": "66f9a80f4dad074ecf080586c4a2f28a419bdb358522309b0be7ef4c87d0bd69",
+        "time": "2026-09-08T00:00:00.000Z",
+        "wet_percent": 51.2
+      },
+      {
+        "bytes": 98535,
+        "date": "2026-09-09",
+        "file": "rain_day_20260909.bin.gz",
+        "max_mm": 39.6,
+        "sha256": "4ce418b14e09c8b322287c713a08df8721aa3d8fbd29e33be5afa0f8b452a072",
+        "time": "2026-09-09T00:00:00.000Z",
+        "wet_percent": 59.4
+      },
+      {
+        "bytes": 11657,
+        "date": "2026-09-10",
+        "file": "rain_day_20260910.bin.gz",
+        "max_mm": 29.5,
+        "sha256": "590c8005c68ccb9ad3cc739b4dd8cb0e8f0f715dde8154f87b62e267a7f489cf",
+        "time": "2026-09-10T00:00:00.000Z",
+        "wet_percent": 4.4
+      },
+      {
+        "bytes": 35813,
+        "date": "2026-09-11",
+        "file": "rain_day_20260911.bin.gz",
+        "max_mm": 19.9,
+        "sha256": "7694206c35900aedf0c64ad275de04636e2d24f60535518f96c0d1652419b515",
+        "time": "2026-09-11T00:00:00.000Z",
+        "wet_percent": 24.3
+      },
+      {
+        "bytes": 37790,
+        "date": "2026-09-12",
+        "file": "rain_day_20260912.bin.gz",
+        "max_mm": 13.3,
+        "sha256": "d9734d677fe0f4401d4e4f829b6a9d5847c22832958014a568be607677a56988",
+        "time": "2026-09-12T00:00:00.000Z",
+        "wet_percent": 31.0
+      },
+      {
+        "bytes": 124859,
+        "date": "2026-09-13",
+        "file": "rain_day_20260913.bin.gz",
+        "max_mm": 36.6,
+        "sha256": "c1ef5a3dba4f1cb255516fde60d317cb6701bb451acf4be74a046cdccfdce975",
+        "time": "2026-09-13T00:00:00.000Z",
+        "wet_percent": 76.1
+      },
+      {
+        "bytes": 21839,
+        "date": "2026-09-14",
+        "file": "rain_day_20260914.bin.gz",
+        "max_mm": 14.7,
+        "sha256": "a10cdbd56f6cc0ff595621c5ecd526297c7e02ae3453fb58dbca32286656cfe9",
+        "time": "2026-09-14T00:00:00.000Z",
+        "wet_percent": 11.5
+      },
+      {
+        "bytes": 34208,
+        "date": "2026-09-15",
+        "file": "rain_day_20260915.bin.gz",
+        "max_mm": 29.8,
+        "sha256": "a9e1c95980feef05deeab754c479739c97b28f8b0b97588f606b7195f8873bd0",
+        "time": "2026-09-15T00:00:00.000Z",
+        "wet_percent": 14.8
+      },
+      {
+        "bytes": 159540,
+        "date": "2026-09-16",
+        "file": "rain_day_20260916.bin.gz",
+        "max_mm": 57.8,
+        "sha256": "be9417af76eb880df9893ead1b71918b108d406833f6e233c07a37a1fe4e947b",
+        "time": "2026-09-16T00:00:00.000Z",
+        "wet_percent": 81.1
+      },
+      {
+        "bytes": 46243,
+        "date": "2026-09-17",
+        "file": "rain_day_20260917.bin.gz",
+        "max_mm": 36.8,
+        "sha256": "129759cc992758caf8309be2ecc8d0986d56e9631315f41b5d72e63bcd920c96",
+        "time": "2026-09-17T00:00:00.000Z",
+        "wet_percent": 30.1
+      },
+      {
+        "bytes": 26250,
+        "date": "2026-09-18",
+        "file": "rain_day_20260918.bin.gz",
+        "max_mm": 21.8,
+        "sha256": "0ec38b735f29e57b1371ab66e03f02048f8ccb0be153d5185163b07c8bdbfe8e",
+        "time": "2026-09-18T00:00:00.000Z",
+        "wet_percent": 15.5
+      },
+      {
+        "bytes": 24826,
+        "date": "2026-09-19",
+        "file": "rain_day_20260919.bin.gz",
+        "max_mm": 17.5,
+        "sha256": "965dfe5c9a13fc5a397690ab85d24039576e2ec192e071076b0438189d33deca",
+        "time": "2026-09-19T00:00:00.000Z",
+        "wet_percent": 14.8
+      },
+      {
+        "bytes": 96940,
+        "date": "2026-09-20",
+        "file": "rain_day_20260920.bin.gz",
+        "max_mm": 24.3,
+        "sha256": "3c7c46ce9b3823e9153a04045b9761a7fc792eb4f8c9f0ef5e5703aa275bda9d",
+        "time": "2026-09-20T00:00:00.000Z",
+        "wet_percent": 68.5
+      },
+      {
+        "bytes": 23725,
+        "date": "2026-09-21",
+        "file": "rain_day_20260921.bin.gz",
+        "max_mm": 13.2,
+        "sha256": "96fb1a10423d4faa2619fd350d853ef951f9ffa1e4ffe566b38b0131efdaebe3",
+        "time": "2026-09-21T00:00:00.000Z",
+        "wet_percent": 12.3
+      },
+      {
+        "bytes": 3951,
+        "date": "2026-09-22",
+        "file": "rain_day_20260922.bin.gz",
+        "max_mm": 1.9,
+        "sha256": "93eaf57d988f19b2a6611c397511449d230b737617eebb496c89eb582284fa5a",
+        "time": "2026-09-22T00:00:00.000Z",
+        "wet_percent": 0.2
+      },
+      {
+        "bytes": 45918,
+        "date": "2026-09-23",
+        "file": "rain_day_20260923.bin.gz",
+        "max_mm": 27.9,
+        "sha256": "cdce9b683e44f5c98847993456830b3a3dbf1d95f1df81c4a4cf0062a5fdf7c2",
+        "time": "2026-09-23T00:00:00.000Z",
+        "wet_percent": 28.1
+      },
+      {
+        "bytes": 64197,
+        "date": "2026-09-24",
+        "file": "rain_day_20260924.bin.gz",
+        "max_mm": 28.7,
+        "sha256": "205709fd8cfcf60b996491f1cf6fbd3383de723c86964cfd149f546322289d69",
+        "time": "2026-09-24T00:00:00.000Z",
+        "wet_percent": 39.4
+      },
+      {
+        "bytes": 4410,
+        "date": "2026-09-25",
+        "file": "rain_day_20260925.bin.gz",
+        "max_mm": 4.7,
+        "sha256": "dd4650bfecb6db6590d0396586c928966f3cbda6bc7ce5af2697771227ada2d3",
+        "time": "2026-09-25T00:00:00.000Z",
+        "wet_percent": 0.8
+      }
+    ],
+    "east": 16.71504,
+    "height": 940,
+    "label": "Tagessummen",
+    "north": 55.054403,
+    "south": 46.832788,
+    "west": 4.512403,
+    "width": 800
+  },
+  "layers": {
+    "sf": {
+      "bytes": 4708,
+      "coverage": "dwd__SF-Produkt",
+      "east": 15.525283,
+      "file": "rain_sf.bin.gz",
+      "height": 891,
+      "label": "24 Stunden",
+      "layer": "sf",
+      "max_mm": 18.8,
+      "measured": "2026-09-26T15:50:00.000Z",
+      "median_mm": 0.0,
+      "north": 54.902517,
+      "sha256": "713a3efefc058326340d21f416411c64c97ff18f433e58735a63aeb085af1335",
+      "south": 47.117919,
+      "west": 4.649682,
+      "width": 713
+    },
+    "w4": {
+      "bytes": 219539,
+      "coverage": "dwd__RADOLAN-W4",
+      "east": 15.174457,
+      "file": "rain_w4.bin.gz",
+      "height": 883,
+      "label": "30 Tage",
+      "layer": "w4",
+      "max_mm": 182.1,
+      "measured": "2026-09-26T05:50:00.000Z",
+      "median_mm": 47.8,
+      "north": 54.902517,
+      "sha256": "57d4239a44be072584ab108da9c025fcd97c05093605c5f1c771d082b92944a2",
+      "south": 47.193698,
+      "west": 5.732666,
+      "width": 619
+    }
+  },
+  "weather": {
+    "bytes": 89518,
+    "days": [
+      "2026-08-29",
+      "2026-08-30",
+      "2026-08-31",
+      "2026-09-01",
+      "2026-09-02",
+      "2026-09-03",
+      "2026-09-04",
+      "2026-09-05",
+      "2026-09-06",
+      "2026-09-07",
+      "2026-09-08",
+      "2026-09-09",
+      "2026-09-10",
+      "2026-09-11",
+      "2026-09-12",
+      "2026-09-13",
+      "2026-09-14",
+      "2026-09-15",
+      "2026-09-16",
+      "2026-09-17",
+      "2026-09-18",
+      "2026-09-19",
+      "2026-09-20",
+      "2026-09-21",
+      "2026-09-22",
+      "2026-09-23",
+      "2026-09-24",
+      "2026-09-25"
+    ],
+    "file": "weather_stations.json.gz",
+    "moisture": 483,
+    "moisture_days": [
+      "2026-08-31",
+      "2026-09-01",
+      "2026-09-02",
+      "2026-09-03",
+      "2026-09-04",
+      "2026-09-05",
+      "2026-09-06",
+      "2026-09-07",
+      "2026-09-08",
+      "2026-09-09",
+      "2026-09-10",
+      "2026-09-11",
+      "2026-09-12",
+      "2026-09-13",
+      "2026-09-14",
+      "2026-09-15",
+      "2026-09-16",
+      "2026-09-17",
+      "2026-09-18",
+      "2026-09-19",
+      "2026-09-20",
+      "2026-09-21",
+      "2026-09-22",
+      "2026-09-23",
+      "2026-09-24",
+      "2026-09-25"
+    ],
+    "skipped": 135,
+    "soil": 294,
+    "stations": 465
+  }
+}
